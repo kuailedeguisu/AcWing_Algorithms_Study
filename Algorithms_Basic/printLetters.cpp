@@ -2,7 +2,7 @@
 #include <string.h>
 using namespace std;
 /*
-核心思想：双指针算法
+核心思想：双指针算法 O(N)
 输入一个字符串，字符串首尾没有空格，并且单词间只有一个空格
 比如，abc def ghi
 输出每一个单词，并一行一个单词
